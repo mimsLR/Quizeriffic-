@@ -1,0 +1,29 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrylkmc/cs421_finalproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrylkmc/cs421_finalproject/issues"
+  },
+  "homepage": "https://github.com/darrylkmc/cs421_finalproject#readme",
+  "dependencies": {
+    "alert": "^5.1.1",
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "node-popup": "^0.1.14",
+    "popups": "^1.1.3"
+  }
+}

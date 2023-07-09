@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Which state of the United States is the smallest?",
+        "optionA": "Rhode Island",
+        "optionB": "Maine",
+        "optionC": "Vermont",
+        "optionD": "Massachusetts",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "The land of Gotland is located in which European country?",
+        "optionA": "Germany",
+        "optionB": "Norway",
+        "optionC": "Denmark",
+        "optionD": "Sweden",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+        "optionA": "Norway",
+        "optionB": "Chile",
+        "optionC": "Australia",
+        "optionD": "United States",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "On which continent is the country of Angola located?",
+        "optionA": "Africa",
+        "optionB": "South America",
+        "optionC": "Europe",
+        "optionD": "Asia",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Which of these countries is NOT located in Africa?",
+        "optionA": "Algeria",
+        "optionB": "Mozambique",
+        "optionC": "Burkina Faso",
+        "optionD": "Suriname",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the capital of the US state Nevada?",
+        "optionA": "Carson City",
+        "optionB": "Las Vegas",
+        "optionC": "Henderson",
+        "optionD": "Reno",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+        "optionA": "103",
+        "optionB": "10",
+        "optionC": "59",
+        "optionD": "79",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+        "optionA": "Quin",
+        "optionB": "Gibraltar",
+        "optionC": "Andorra",
+        "optionD": "Kashmir",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the capital of Estonia?",
+        "optionA": "Riga",
+        "optionB": "Tartu",
+        "optionC": "Helsinki",
+        "optionD": "Tallinn",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Where is Hadrian's Wall located?",
+        "optionA": "Dublin, Ireland",
+        "optionB": "Alexandria, Egypt",
+        "optionC": "Carlisle, England",
+        "optionD": "Rome, Italy",
+        "correctOption": "optionC"
+    }
+]

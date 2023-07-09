@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Which of the following sports is not part of the triathlon?",
+        "optionA": "Swimming",
+        "optionB": "Cycling",
+        "optionC": "Horse-Riding",
+        "optionD": "Running",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "In golf, what name is given to a hole score of two under par?",
+        "optionA": "Birdie",
+        "optionB": "Eagle",
+        "optionC": "Bogey",
+        "optionD": "Albatross",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Which English football club has the nickname the Foxes?",
+        "optionA": "Leicester City",
+        "optionB": "Northampton Town",
+        "optionC": "Bradford City",
+        "optionD": "West Bromwich Albion",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Who won the 2015 Formula 1 World Championship?",
+        "optionA": "Nico Rosberg",
+        "optionB": "Lewis Hamilton",
+        "optionC": "Sebastian Vettel",
+        "optionD": "Jenson Button",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What team won the 2016 MLS Cup?",
+        "optionA": "Montreal Impact",
+        "optionB": "Toronto FC",
+        "optionC": "Colorado Rapids",
+        "optionD": "Seattle Sounders",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+        "optionA": "Don Cherry",
+        "optionB": "Don McKellar",
+        "optionC": "Don Taylor",
+        "optionD": "Donald Sutherland",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Which African American is in part responsible for integrating Major League baseball?",
+        "optionA": "Curt Flood",
+        "optionB": "Roy Campanella",
+        "optionC": "Jackie Robinson",
+        "optionD": "Satchell Paige",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Who is often called the Maestro in the men's tennis circuit?",
+        "optionA": "Bill Tilden",
+        "optionB": "Boris Becker",
+        "optionC": "Roger Federer",
+        "optionD": "Pete Sampras",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Which year did Jenson Button won his first ever Formula One World Drivers Championship?",
+        "optionA": "2010",
+        "optionB": "2007",
+        "optionC": "2010",
+        "optionD": "2009",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+        "optionA": "4",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "3",
+        "correctOption": "optionA"
+    }
+]

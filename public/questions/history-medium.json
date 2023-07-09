@@ -1,0 +1,82 @@
+[
+    {
+        "question": "The crown of the Empire State Building was originally built for what purpose?",
+        "optionA": "Lightning Rod",
+        "optionB": "Antennae",
+        "optionC": "Airship Dock",
+        "optionD": "Flag Pole",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "On what day did Germany invade Poland?",
+        "optionA": "September 1, 1939",
+        "optionB": "December 7, 1941",
+        "optionC": "June 22, 1941",
+        "optionD": "July 7, 1937",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+        "optionA": "Neville Chamberlain",
+        "optionB": "Harold Macmillan",
+        "optionC": "Neville Chamberlain",
+        "optionD": "Winston Churchil",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which country had an Orange Revolution between 2004 and 2005?",
+        "optionA": "Belarus",
+        "optionB": "Latvia",
+        "optionC": "Ukraine",
+        "optionD": "Belarus",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is the oldest US state?",
+        "optionA": "Maine",
+        "optionB": "Rhode Island",
+        "optionC": "New York",
+        "optionD": "Delaware",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What was the bloodiest single-day battle during the American Civil War?",
+        "optionA": "The Siege of Vicksburg",
+        "optionB": "The Battle of Antietam",
+        "optionC": "The Battle of Gettysburg",
+        "optionD": "The Battles of Chancellorsville",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What was the unofficial name for Germany between 1919 and 1933?",
+        "optionA": "Weimar Republic",
+        "optionB": "German Democratic Republic",
+        "optionC": "Federal Republic of Germany",
+        "optionD": "Oesterreich",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+        "optionA": "Renault FTa",
+        "optionB": "M4 Sherman",
+        "optionC": "Panzer IV",
+        "optionD": "Cromwell",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Who was the leader of the Communist Party of Yugoslavia?",
+        "optionA": "Aleskandar Petrovic",
+        "optionB": "Milos Obilic",
+        "optionC": "Josip Broz Tito",
+        "optionD": "Karadjordje Petrovic",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "The Fallingwater House, located in Pennsylvania, was designed by which architect?",
+        "optionA": "Le Corbusier",
+        "optionB": "Frank Gehry",
+        "optionC": "Antoni Gaudi",
+        "optionD": "Frank Lloyd Wright",
+        "correctOption": "optionD"
+    }
+]

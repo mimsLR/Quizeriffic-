@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the capital of the American state of Arizona?",
+        "optionA": "Raleigh",
+        "optionB": "Montgomery",
+        "optionC": "Phoenix",
+        "optionD": "Tallahassee",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Which country does Austria not border?",
+        "optionA": "France",
+        "optionB": "Slovenia",
+        "optionC": "Switzerland",
+        "optionD": "Slovakia",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many federal states does Germany have?",
+        "optionA": "25",
+        "optionB": "32",
+        "optionC": "13",
+        "optionD": "16",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the 15th letter of the Greek alphabet?",
+        "optionA": "Pi (&Pi;)",
+        "optionB": "Sigma (&Sigma;)",
+        "optionC": "Omicron (&Omicron;)",
+        "optionD": "Nu (&Nu;)",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Which US state has the highest population?",
+        "optionA": "Florida",
+        "optionB": "Texas",
+        "optionC": "New York",
+        "optionD": "California",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the capital of the US State of New York?",
+        "optionA": "Albany",
+        "optionB": "Buffalo",
+        "optionC": "New York",
+        "optionD": "Rochester",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many countries does Mexico border?",
+        "optionA": "2",
+        "optionB": "1",
+        "optionC": "3",
+        "optionD": "4",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+        "optionA": "Sri Lanka",
+        "optionB": "Kiribati",
+        "optionC": "Scotland",
+        "optionD": "Bhutan",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "The longest shared border in the world can be found between which two nations?",
+        "optionA": "India and Pakistan",
+        "optionB": "Russia and China",
+        "optionC": "Chile and Argentina",
+        "optionD": "Canada and the United States",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which ocean borders the west coast of the United States",
+        "optionA": "Arctic",
+        "optionB": "Indian",
+        "optionC": "Atlantic",
+        "optionD": "Pacific",
+        "correctOption": "optionD"
+    }
+]

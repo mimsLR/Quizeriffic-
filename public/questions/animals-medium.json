@@ -1,0 +1,82 @@
+[
+    {
+       "question": "What does hippopotamus mean and in what language?",
+       "optionA": "River Horse (Greek)",
+       "optionB": "River Horse (Latin)",
+       "optionC": "Fat Pig (Greek)",
+       "optionD": "Fat Pig (Latin)",
+       "correctOption": "optionA"
+    },
+    {
+       "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+       "optionA": "Nothing",
+       "optionB": "Seaweed",
+       "optionC": "Fruit",
+       "optionD": "Nuts",
+       "correctOption": "optionD"
+    },
+    {
+       "question": "What is the scientific name for the Polar Bear?",
+       "optionA": "Polar Bear",
+       "optionB": "Ursus Spelaeus",
+       "optionC": "Ursus Maritimus",
+       "optionD": "Ursus Arctos",
+       "correctOption": "optionC"
+    },
+    {
+       "question": "For what reason would a spotted hyena laugh?",
+       "optionA": "Excitement",
+       "optionB": "Aggression",
+       "optionC": "Nervousness",
+       "optionD": "Exhaustion",
+       "correctOption": "optionC"
+    },
+    {
+        "question": "Which animal was part of an Russian domestication experiment in 1959?",
+        "optionA": "Foxes",
+        "optionB": "Pigeons",
+        "optionC": "Bears",
+        "optionD":"Alligators" ,
+        "correctOption": "optionA"
+    },
+    {
+        "question": "The now extinct species Thylacine was native to where?",
+        "optionA": "Baluchistan, Pakistan",
+        "optionB": "Wallachia, Romania",
+        "optionC": "Tasmania, Australia",
+        "optionD": "Oregon, United States",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is the fastest animal?",
+        "optionA": "Golden Eagle",
+        "optionB": "Cheetah",
+        "optionC": "Horsefly",
+        "optionD": "Peregrine Falcon",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "The dish Fugu, is made from what family of fish?",
+        "optionA": "Pufferfish",
+        "optionB": "Bass",
+        "optionC": "Salmon",
+        "optionD": "Mackerel",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What is the scientific name of the Common Chimpanzee?",
+        "optionA": "Gorilla gorilla",
+        "optionB": "Pan paniscus",
+        "optionC": "Panthera leo",
+        "optionD": "Pan troglodytes",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the collective noun for rats?",
+        "optionA": "Mischief",
+        "optionB": "Pack",
+        "optionC": "Race",
+        "optionD": "Drift",
+        "correctOption": "optionA"
+    }
+]

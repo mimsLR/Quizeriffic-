@@ -1,0 +1,82 @@
+[
+    {
+       "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+       "optionA": "Duck",
+       "optionB": "Bye",
+       "optionC": "Beamer",
+       "optionD": "Carry",
+       "correctOption": "optionA"
+    },
+    {
+       "question": "Which Formula One driver was nicknamed The Professor?",
+       "optionA": "Ayrton Senna",
+       "optionB": "Niki Lauda",
+       "optionC": "Alain Prost",
+       "optionD": "Emerson Fittipaldi",
+       "correctOption": "optionC"
+    },
+    {
+       "question": "Which nation hosted the FIFA World Cup in 2006?",
+       "optionA": "United Kingdom",
+       "optionB": "Brazil",
+       "optionC": "Germany",
+       "optionD": "South Africa",
+       "correctOption": "optionC"
+    },
+    {
+       "question": "What is the highest belt you can get in Taekwondo?",
+       "optionA": "White",
+       "optionB": "Red",
+       "optionC": "Green",
+       "optionD": "Black",
+       "correctOption": "optionD"
+    },
+    {
+        "question": "Josh Mansour is part of what NRL team?",
+        "optionA": "North Queensland Cowboys",
+        "optionB": "Penrith Panthers",
+        "optionC": "Melbourne Storm",
+        "optionD": "Sydney Roosters",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What is the oldest team in the NFL?",
+        "optionA": "Arizona Cardinals",
+        "optionB": "Chicago Bears",
+        "optionC": "Green Bay Packers",
+        "optionD": "New York Giants",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+        "optionA": "Ayrton Senna",
+        "optionB": "Jules Bianchi",
+        "optionC": "Ronald Ratzenberger",
+        "optionD": "Gilles Villeneuve",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Who won the 2015 College Football Playoff (CFP) National Championship?",
+        "optionA": "Alabama Crimson Tide",
+        "optionB": "Clemson Tigers",
+        "optionC": "Ohio State Buckeyes",
+        "optionD": "Wisconsin Badgers",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+        "optionA": "Wrestling",
+        "optionB": "Archery",
+        "optionC": "American Football",
+        "optionD": "Horse-Racing",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is Tiger Woods's all-time best career golf-score?",
+        "optionA": "61",
+        "optionB": "65",
+        "optionC": "63",
+        "optionD": "67",
+        "correctOption": "optionA"
+    }
+]

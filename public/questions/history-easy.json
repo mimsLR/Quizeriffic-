@@ -1,0 +1,106 @@
+[
+    {
+        "question": "King Henry VIII was the second monarch of which European royal house?",
+        "optionA": "Tudor",
+        "optionB": "York",
+        "optionC": "Stuart",
+        "optionD": "Lancaster",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Who discovered Penicillin?",
+        "optionA": "Marie Curie",
+        "optionB": "Alfred Nobel",
+        "optionC": "Louis Pasteur",
+        "optionD": "Alexander Flemming",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Who was the first President of USA ?",
+        "optionA": "Donald Trump",
+        "optionB": "Barack Obama",
+        "optionC": "Abraham Lincoln",
+        "optionD": "George Washington",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "In what year did the Wall Street Crash take place?",
+        "optionA": "1932",
+        "optionB": "1930",
+        "optionC": "1925",
+        "optionD": "1929",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+        "optionA": "Tog II",
+        "optionB": "M4 Sherman",
+        "optionC": "Tiger H1",
+        "optionD": "T-34",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+        "optionA": "Daniel Defoe",
+        "optionB": "Robert Harley",
+        "optionC": "John Blunt",
+        "optionD": "John Churchill",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+        "optionA": "Hideki Tojo",
+        "optionB": "Michinomiya Hirohito",
+        "optionC": "Isoroku Yamamoto",
+        "optionD": "Fumimaro Konoe",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Who was the first prime minister of Canada?",
+        "optionA": "John Abbott",
+        "optionB": "Alexander Mackenzie",
+        "optionC": "John Macdonald",
+        "optionD": "Robert Borden",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "These two countries held a commonwealth from the 16th to 18th century.",
+        "optionA": "Bangladesh and Bhutan",
+        "optionB": "North Korea and South Korea",
+        "optionC": "Hutu and Rwanda",
+        "optionD": "Poland and Lithuania",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Who led the Communist Revolution of Russia?",
+        "optionA": "Vladimir Lenin",
+        "optionB": "Joseph Stalin",
+        "optionC": "Vladimir Putin",
+        "optionD": "Mikhail Gorbachev",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What does the United States of America celebrate during the 4th of July?",
+        "optionA": "The anniversary of the Battle of Gettysburg",
+        "optionB": "The crossing of the Delaware River",
+        "optionC": "The signing of the Declaration of Independence",
+        "optionD": "The ratification of the Constitution",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "The longest river in the United Kingdom is ?",
+        "optionA": "River Severn",
+        "optionB": "River Mersey",
+        "optionC": "River Trent",
+        "optionD": "River Tweed",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Who led the Communist Revolution of Russia??",
+        "optionA": "Joseph Stalin",
+        "optionB": "Vladimir Lenin",
+        "optionC": "Mikhail Gorbachev",
+        "optionD": "Vladimir Putin",
+        "correctOption": "optionB"
+    }
+]

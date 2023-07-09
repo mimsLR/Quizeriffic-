@@ -1,0 +1,82 @@
+[
+    {
+       "question": "Which species of Brown Bear is not extinct?",
+       "optionA": "California Grizzly Bear",
+       "optionB": "Syrian Brown Bear",
+       "optionC": "Atlas Bear",
+       "optionD": "Mexican Grizzly Bear",
+       "correctOption": "optionB"
+    },
+    {
+       "question": "How many known living species of hyenas are there?",
+       "optionA": "8",
+       "optionB": "2",
+       "optionC": "4",
+       "optionD": "6",
+       "correctOption": "optionC"
+    },
+    {
+       "question": "What scientific family does the Aardwolf belong to?",
+       "optionA": "Canidae",
+       "optionB": "Felidae",
+       "optionC": "Hyaenidae",
+       "optionD": "Eupleridae",
+       "correctOption": "optionC"
+    },
+    {
+       "question": "What is the Gray Wolf's scientific name?",
+       "optionA": "Canis Aureus",
+       "optionB": "Canis Latrans",
+       "optionC": "Canis Lupus Lycaon",
+       "optionD": "Canis Lupus",
+       "correctOption": "optionD"
+    },
+    {
+        "question": "Which of these animals is NOT a lizard?",
+        "optionA": "Tuatara",
+        "optionB": "Komodo Dragon",
+        "optionC": "Gila Monster",
+        "optionD": "Green Iguana",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What type of creature is a Bonobo?",
+        "optionA": "Lion",
+        "optionB": "Ape",
+        "optionC": "Parrot",
+        "optionD": "Wildcat",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+        "optionA": "Cytochrome",
+        "optionB": "Hemocyanin",
+        "optionC": "Iron",
+        "optionD": "Methionine",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Which species is a mountain chicken?",
+        "optionA": "Frog",
+        "optionB": "Chicken",
+        "optionC": "Horse",
+        "optionD": "Fly",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Which of the following is another name for the Poecilotheria Metallica Tarantula?",
+        "optionA": "Hopper",
+        "optionB": "Silver Stripe",
+        "optionC": "Gooty",
+        "optionD": "Woebegone",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+        "optionA": "Annelida",
+        "optionB": "Chordata",
+        "optionC": "Placazoa",
+        "optionD": "Echinodermata",
+        "correctOption": "optionB"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "In which city, is the Big Nickel located in Canada?",
+        "optionA": "Sudbury, Ontario",
+        "optionB": "Calgary, Alberta",
+        "optionC": "Halifax, Nova Scotia",
+        "optionD": "Victoria, British Columbia",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Where is the fast food chain Panda Express headquartered?",
+        "optionA": "San Diego, California",
+        "optionB": "Fresno, California",
+        "optionC": "Sacramento, California",
+        "optionD": "Rosemead, California",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the area of Vatican City?",
+        "optionA": "0.44km^2",
+        "optionB": "0.10km^2",
+        "optionC": "0.86km^2",
+        "optionD": "12.00km^2",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Fucking is a village in which country?",
+        "optionA": "Austria",
+        "optionB": "Germany",
+        "optionC": "Switzerland",
+        "optionD": "Czech Republic",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "When does Finland celebrate their independence day?",
+        "optionA": "February 8th",
+        "optionB": "November 12th",
+        "optionC": "January 2nd",
+        "optionD": "December 6th",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which of these cities has a 4 deg East longitude.",
+        "optionA": "Amsterdam",
+        "optionB": "Rio de Janero",
+        "optionC": "Toronto",
+        "optionD": "Hong Kong",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+        "optionA": "Vietnam",
+        "optionB": "India",
+        "optionC": "Thailand",
+        "optionD": "Indonesia",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "How many stations does the Central Line have on the London Underground?",
+        "optionA": "47",
+        "optionB": "43",
+        "optionC": "51",
+        "optionD": "49",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which of these is NOT a real tectonic plate?",
+        "optionA": "Nazca Plate",
+        "optionB": "Eurasian Plate",
+        "optionC": "Atlantic Plate",
+        "optionD": "North American Plate",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+        "optionA": "Chad and Libya",
+        "optionB": "Egypt and Sudan",
+        "optionC": "Iraq and Saudi Arabia",
+        "optionD": "Israel and Jordan",
+        "correctOption": "optionB"
+    }
+]

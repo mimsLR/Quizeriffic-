@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the fastest land animal?",
+        "optionA": "Cheetah",
+        "optionB": "Lion",
+        "optionC": "Gazelle",
+        "optionD": "Antelope",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many legs do butterflies have?",
+        "optionA": "2",
+        "optionB": "4",
+        "optionC": "6",
+        "optionD": "0",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What do you call a baby bat?",
+        "optionA": "Cub",
+        "optionB": "Pup",
+        "optionC": "Kid",
+        "optionD": "Chick",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What is Grumpy Cat's real name?",
+        "optionA": "Minnie",
+        "optionB": "Tardar Sauce",
+        "optionC": "Broccoli",
+        "optionD": "Sauce",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Which class of animals are newts members of?",
+        "optionA": "Fish",
+        "optionB": "Reptiles",
+        "optionC": "Amphibian",
+        "optionD": "Mammals",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is the collective noun for a group of crows?",
+        "optionA": "Pack",
+        "optionB": "Gaggle",
+        "optionC": "Herd",
+        "optionD": "Murder",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "By definition, where does an abyssopelagic animal live?",
+        "optionA": "At the bottom of the ocean",
+        "optionB": "In the desert",
+        "optionC": "On top of a mountain",
+        "optionD": "Inside a tree",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What colour is the female blackbird?",
+        "optionA": "Black",
+        "optionB": "Brown",
+        "optionC": "White",
+        "optionD": "Yellow",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "How many teeth does an adult rabbit have?",
+        "optionA": "30",
+        "optionB": "26",
+        "optionC": "28",
+        "optionD": "24",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is the name of a rabbit's abode?",
+        "optionA": "Den",
+        "optionB": "Nest",
+        "optionC": "Dray",
+        "optionD": "Burrow",
+        "correctOption": "optionD"
+    }
+]
